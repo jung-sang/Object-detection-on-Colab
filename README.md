@@ -4,7 +4,7 @@
 
 ### Take care of Cuda and CuDNN version !
 
-**It has to be like this
+**It has to be like this**
 
 Toolkit | Version
 ---|---|
