@@ -15,4 +15,7 @@ CuDNN|7.6.5|
 
 Labelimg = https://github.com/tzutalin/labelImg
 
-Tutorial = https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html
+Video Tutorial = https://www.youtube.com/watch?v=COlbP62-B-U&list=PLQVvvaa0QuDcNK5GeCQnxYnSSaar2tpku
+
+Text Tutorial = https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html
+
