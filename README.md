@@ -9,11 +9,3 @@ Take care of Cuda and CuDNN version !
 Labelimg = https://github.com/tzutalin/labelImg
 
 Tutorial = https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html
-
-'''python
-
-
-import os
-
-
-'''
